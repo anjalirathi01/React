@@ -101,7 +101,7 @@ const resObj = [
 "Fast Food",
 "Rolls & Wraps"
 ],
-"avgRating": 4.4,
+"avgRating": 3.5,
 "parentId": "547",
 "avgRatingString": "4.4",
 "totalRatingsString": "1.5K+",
